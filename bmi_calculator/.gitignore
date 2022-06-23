@@ -1,0 +1,5 @@
+/.idea/*
+/build/*
+/.packages
+/.dart_tool/*
+/android/.gradle/*
