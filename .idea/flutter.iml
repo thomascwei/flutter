@@ -6,6 +6,9 @@
       <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/build" />
       <excludeFolder url="file://$MODULE_DIR$/bmi_calculator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Clima/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Clima/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Clima/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
