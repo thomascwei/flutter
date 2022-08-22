@@ -9,6 +9,27 @@
       <excludeFolder url="file://$MODULE_DIR$/Clima/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Clima/build" />
       <excludeFolder url="file://$MODULE_DIR$/Clima/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bar_buttom_keep_alive/build" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bar_buttom_keep_alive/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/app_bar_buttom_keep_alive/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar_2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar_2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar_2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/wrap/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/search_bar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/search_bar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/search_bar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pages_animation/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/pages_animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pages_animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/forst_glass/build" />
+      <excludeFolder url="file://$MODULE_DIR$/forst_glass/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/forst_glass/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
