@@ -30,6 +30,12 @@
       <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/build" />
       <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/buttom_navigator_bar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_panel_list/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_panel_list/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_panel_list/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_tile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_tile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/expansion_tile/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
